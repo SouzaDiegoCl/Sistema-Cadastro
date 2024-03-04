@@ -1,6 +1,9 @@
 # Sistema-Cadastro
 ### Descrição do Sistema:
       Sistema de cadastro de dados pessoais, simulação de uma página de banco.
+      Possui função de validação para email, cpf e cep com o intuito de evitar cadastros com dados inválidos.
+      Calculo da idade é realizado a partir da data de nascimento inserida pelo usuário.
+      Valor da cidade e da UF são preenchidos a partir do cep informado.
       
 ### Tecnologias:
     - HTML
@@ -11,3 +14,6 @@
 
 ## Exemplo - Execução do projeto:  
 ### Tela inicial
+<img src='imgs/homePage.png' width='900'></img>
+### Tela de Cadastro
+<img src='imgs/cadastroPage.png' width='900'></img>
