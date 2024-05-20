@@ -14,6 +14,11 @@
 
 ## Exemplo - Execução do projeto:  
 ### Tela inicial
-<img src='imgs/homePage.png' width='900'></img>
+<p align="center">
+      <img src='imgs/homePage.png' width='700'></img>      
+</p>
 ### Tela de Cadastro
-<img src='imgs/cadastroPage.png' width='900'></img>
+<p align="center">
+      <img src='imgs/cadastroPage.png' width='700'></img>
+</p>
+
