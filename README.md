@@ -17,6 +17,7 @@
 <p align="center">
       <img src='imgs/homePage.png' width='700'></img>      
 </p>
+
 ### Tela de Cadastro
 <p align="center">
       <img src='imgs/cadastroPage.png' width='700'></img>
